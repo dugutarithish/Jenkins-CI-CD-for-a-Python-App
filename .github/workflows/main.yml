@@ -1,4 +1,14 @@
 
+git init
+git add .
+git commit -m "Initial commit for Jenkins CI/CD project"
+
+git remote add origin https://https://github.com/dugutarithish/Jenkins-CI-CD-for-a-Python-App
+git branch -M main
+git push -u origin main
+
+
+
 my-jenkins-project/
 │
 ├── app.py              # your Flask app
