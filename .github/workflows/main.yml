@@ -1,1 +1,8 @@
 
+my-jenkins-project/
+│
+├── app.py              # your Flask app
+├── requirements.txt    # dependencies
+├── test_app.py         # tests
+├── Dockerfile          # (if you’re doing Docker build)
+└── Jenkinsfile         # defines your Jenkins pipeline
